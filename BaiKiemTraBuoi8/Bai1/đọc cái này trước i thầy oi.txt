@@ -1,0 +1,3 @@
+ở bài 1 con sẽ biến tấu câu hỏi lại một tí, là con sẽ dùng nút thay thế cho prompt. 
+Nghĩa là sẽ có nút add, delete và update. 
+Sẽ không có nút read vì nó sẽ hiện luôn trên web

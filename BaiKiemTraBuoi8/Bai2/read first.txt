@@ -1,0 +1,7 @@
+Lưu ý: khi dùng ưu tiên copy tên pokemon và paste vào tìm kiếm, nếu không thì sẽ xảy ra lỗi
+------------------------------------------------------
+https://pokeapi.co/api/v2/pokemon/?offset=0&limit=500
+https://pokeapi.co/api/v2/pokemon/?offset=500&limit=500
+https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=279
+https://pokeapi.co/api/v2/pokemon/?offset=721&limit=279
+https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=279
